@@ -1,0 +1,23 @@
+{
+  "name": "wepesi-repository",
+  "version": "0.0.1",
+  "description": "A restful api for the wepesi content repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dnjuguna/wepesi-repository.git"
+  },
+  "keywords": [
+    "wepesi",
+    "api",
+    "rest"
+  ],
+  "author": "David Njuguna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnjuguna/wepesi-repository/issues"
+  }
+}
