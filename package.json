@@ -1,6 +1,6 @@
 {
   "name": "wepesi-repository",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A restful api for the wepesi content repository.",
   "main": "index.js",
   "scripts": {
